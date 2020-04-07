@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-dk",
+  "version": "1.0.0",
+  "description": "Eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinakarankec/eslint-config-dk.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "Dinakaran Santhanam <dinakarankec@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinakarankec/eslint-config-dk/issues"
+  },
+  "homepage": "https://github.com/dinakarankec/eslint-config-dk#readme"
+}
