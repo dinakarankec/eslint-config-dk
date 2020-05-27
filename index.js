@@ -25,6 +25,8 @@ module.exports = {
   rules: {
     // "indent": [2, 4],
     "react/jsx-filename-extension": [0],
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
     "import/extensions": "off",
     "max-len": [
       "error",
