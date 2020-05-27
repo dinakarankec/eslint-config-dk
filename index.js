@@ -13,6 +13,7 @@ module.exports = {
     "prettier/@typescript-eslint",
     "plugin:prettier/recommended",
     "react-app",
+    "react-hooks",
   ],
   parserOptions: {
     ecmaVersion: 2018,
